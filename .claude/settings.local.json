@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install pg dotenv)",
+      "Bash(mkdir -p \"d:/CodePath/WEB103/Unit2/Project2/server/config\")",
+      "Bash(mkdir -p \"d:/CodePath/WEB103/Unit2/Project2/server/controllers\")"
+    ]
+  }
+}
